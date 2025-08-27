@@ -69,7 +69,7 @@ Here are some of the technologies and tools I'm proficient with:
 Here are some stats about my activity on GitHub.
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=AdhithiyaG&show_icons=true&theme=radical&hide_border=true&include_all_commits=true" alt="Adhithiya's GitHub Stats" />
+  <img src="https://github-readme-stats.vercel.app/api?username=AdhithiyaG&show_icons=true&theme=radical&hide_border=true&include_all_commits=true&count_private=true" alt="Adhithiya's GitHub Stats" />
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=AdhithiyaG&layout=compact&theme=radical&hide_border=true" alt="Top Languages" />
 </p>
 
